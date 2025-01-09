@@ -1,0 +1,12 @@
+{
+    "aliases": ["aetools", "aequation-tools"],
+    "bundles": {
+        "Aequation\\ToolsBundle\\AequationToolsBundle": ["all"]
+    },
+    "gitignore": [
+        "/tmp/"
+    ],
+    "composer-scripts": {
+        "cache:clear": "symfony-cmd"
+    }
+}

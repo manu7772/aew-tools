@@ -34,11 +34,11 @@
     "conflict": {
         "symfony/flex": "<1.13"
     },
-    "minimum-stability": "stable",
     "config": {
         "allow-plugins": {
             "symfony/flex": false,
             "symfony/runtime": false
         }
-    }
+    },
+    "minimum-stability": "stable"
 }
